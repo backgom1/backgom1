@@ -1,19 +1,17 @@
 ## ❓Who Am I
----
 
 - d
 - d
 - d
 
 ## 💻**Education
----
 
 - 2011 ~ 2014 Jaehyun High School
 - 2017 ~ 2023 SEOIL University(SoftWare Engineering)
 
 
 ## 🛠️STACK
----
+
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -27,9 +25,9 @@
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 
 ## 📊GITHUB STATS
----
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=backgom1&show_icons=true&theme=radical)
 
 ## 📈BACKJUN STATS
----
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstjd0214)](https://solved.ac/dmstjd0214/)
