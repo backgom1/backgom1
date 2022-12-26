@@ -1,10 +1,4 @@
-## ❓Who Am I
-
-- d
-- d
-- d
-
-## 💻**Education
+## 💻Education
 
 - 2011 ~ 2014 Jaehyun High School
 - 2017 ~ 2023 SEOIL University(SoftWare Engineering)
