@@ -2,7 +2,7 @@
 
 - 2011 ~ 2014 Jaehyun High School
 - 2017 ~ 2023 SEOIL University(SoftWare Engineering)
-- 2023 ~ 2023~In Company at E-Tron
+- 2023 ~ In Company at E-Tron
 
 
 ## 🛠️STACK
